@@ -12,13 +12,7 @@ css: styles.css
 
 <!-- https://anupphayal.github.io/gitblog -->
 
-## Scholar Identity
 
--   Interdisciplinary
-
--   Policy-focus
-
--   Multimethod: Qualitative & quantitative
 
 
 ## Teaching Identity
