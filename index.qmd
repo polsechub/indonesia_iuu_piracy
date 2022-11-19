@@ -1,5 +1,5 @@
 ---
-title: "Illegal Fishing & Maritime Piracy: Indonesian Case Study"
+title: "Research Presentation"
 author: "Anup Phayal"
 date: " "
 format:
@@ -10,7 +10,7 @@ format:
     center: true
 title-slide-attributes: 
   data-background-image: input/uncw-logo-png-transparent.png
-  data-background-size: 9%
+  data-background-size: 15%
   data-background-position: 50% 97%
 css: styles.css
 ---
@@ -21,10 +21,10 @@ css: styles.css
 
 
 
-
-<!-- ::: {style="font-size: 1.8em; text-align: center"} -->
-<!-- All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fishing & Maritime Piracy -->
-<!-- ::: -->
+##
+::: {style="font-size: 1.8em; text-align: center"}
+All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fishing & Maritime Piracy
+:::
 
 ## The Project {.centit}
 
