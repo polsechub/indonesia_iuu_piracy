@@ -55,7 +55,7 @@ All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fis
 
 ## Maritime piracy
 
--   Maritime piracy: Attack & robbery on ships
+-   Attack & robbery on ships
 -   International Maritime Bureau estimates: \$1-9 bn/year
 
 ![](input/yearly_piracy_all.png){style="height: 120%;" fig-align="center"}
