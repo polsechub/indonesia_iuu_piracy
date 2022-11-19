@@ -18,7 +18,7 @@
     "href": "index.html#project-outputs-at-various-stages",
     "title": "Research Presentation",
     "section": "Project Outputs at various stages",
-    "text": "Project Outputs at various stages\n(2022) Interstate hostility and maritime crime: Evidence from South East Asia. Marine Policy\n(2022) Maritime Piracy and Foreign Policy. In Oxford Research Encyclopedia of Politics\n(Under review) Government Stringency during COVID-19, inequality, & maritime piracy\n(Ongoing) IUU fishing & piracy in Indonesia\n(Ongoing) Indonesia - Survey of fishers\n(Ongoing) Piracy & vessel traffic in the Gulf of Guinea\n\nMedia & Blogs\n(2021) “Fights over Maritime Boundaries are Creating Safe Zones for Pirates.” The Monkey Cage, Washington Post\n(2021) “How History Predicts COVID-19’s Impact on Maritime Piracy.” Homeland Security Today"
+    "text": "Project Outputs at various stages\n\n(2022) Interstate hostility and maritime crime: Evidence from South East Asia. Marine Policy\n(2022) Maritime Piracy and Foreign Policy. In Oxford Research Encyclopedia of Politics\n(Under review) Government Stringency during COVID-19, inequality, & maritime piracy\n(Ongoing) IUU fishing & piracy in Indonesia\n(Ongoing) Indonesia - Survey of fishers\n(Ongoing) Piracy & vessel traffic in the Gulf of Guinea\n\nMedia & Blogs\n(2021) “Fights over Maritime Boundaries are Creating Safe Zones for Pirates.” The Monkey Cage, Washington Post\n(2021) “How History Predicts COVID-19’s Impact on Maritime Piracy.” Homeland Security Today"
   },
   {
     "objectID": "index.html#maritime-piracy",
@@ -88,7 +88,14 @@
     "href": "index.html#research-design-1",
     "title": "Research Presentation",
     "section": "Research Design",
-    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell in a year? (Y-1/N-0 )\n\nIndependent variables (grid-cell level):\n\nDecline in IUU fishing (compared to previous year)\nOpportunity: Ship traffic\n\nControl variables:\n\nNight lights\nPorts\nSecurity force bases"
+    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell year? (Y-1/N-0 )\n\nIndependent variables (grid-cell level):\n\nDecline in IUU fishing (compared to previous year)\nOpportunity: Ship traffic\n\nControl variables:\n\nNight lights\nPorts\nSecurity force bases"
+  },
+  {
+    "objectID": "index.html#decrease-in-iuu",
+    "href": "index.html#decrease-in-iuu",
+    "title": "Research Presentation",
+    "section": "Decrease in IUU",
+    "text": "Decrease in IUU\n\n\\[ \\Delta_{t} = IUU_{t-1} - IUU_{t} \\] Where, \\(i\\) is for grid-cell and \\(t\\) is month, and \\[\n    IUU\\ Decrease=\n\\begin{cases}\n    1,& \\text{if } \\Delta_{t}\\geq 10\\%\\\\\n    0,              & \\text{otherwise}\n\\end{cases}\n\\]"
   },
   {
     "objectID": "index.html#section-1",

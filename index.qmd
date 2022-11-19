@@ -24,11 +24,14 @@ All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fis
 
 ## The Project {.centit}
 
+
 -   A part of a larger research project on Maritime crime & security
 -   Collaboration between UT, Knoxville & UNCW
 -   Funded by Office of Naval Research (Minerva Research Initiative), 2020-2023
 
-## Project Outputs at various stages {.leftit}
+## Project Outputs at various stages {.leftit .smaller} 
+
+</br>
 
 \(2022\) Interstate hostility and maritime crime: Evidence from South East Asia. *Marine Policy*
 
@@ -146,12 +149,13 @@ Model: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)
 ## Research Design {.smaller}
 
 ::: container
+
 ::: {.column width="50%"}
-<br />
+</br>
 
-DV: Presence of piracy in a grid-cell in a year? (Y-1/N-0 )
+DV: Presence of piracy in a grid-cell year? (Y-1/N-0 )
 
-<br />
+</br>
 
 Independent variables (grid-cell level):
 
@@ -167,6 +171,8 @@ Control variables:
 
 ::: {.column width="45%"}
 <!-- [Night lights extrapolated average, 2009]{.r-fit-text} -->
+</br>
+
 
 ![](input/nlights_2009.png){style="height: 90%;" fig-align="center;"}
 
@@ -177,6 +183,23 @@ Control variables:
 <!-- ## Piracy & fishing in Indonesia -->
 
 <!-- ![](input/piracy_fishing_indonesia.png){style="height: 90%;" fig-align="center;"} -->
+
+## Decrease in IUU
+
+</br>
+
+$$ \Delta_{t} = IUU_{t-1} - IUU_{t} $$ Where, $i$ is for grid-cell and $t$ is month, and 
+$$
+    IUU\ Decrease= 
+\begin{cases}
+    1,& \text{if } \Delta_{t}\geq 10\%\\
+    0,              & \text{otherwise}
+\end{cases}
+$$
+
+
+
+
 
 ##  {.smaller}
 
