@@ -19,41 +19,40 @@ css: styles.css
 
 
 
-## The Project
-
--   Teaching classes on: conflict, peace and security
-
-    > E.g. Capstone (G) National & International Security
-
--   Security Studies minor coordinator
-
-    > Revised curriculum
-
-    > Collaborated w/ History, Criminal justice & Comms
-
--   University governance: Faculty senate for 2 years
-
--   Committee: Develop BS & MS in Public Policy
-
-## Research Identity
-
--   How can I understand the problems better so we can devise policy recommendations?
-
--   DoD funded projects
-
-    > MINERVA: 2020-2023 (With Uni of Tennessee), \$689,000
-    >
-    > DECUR proposal (With Naval War College in Rhode Island)
-
--   Center for Social Impact, UNCW
-
-<!-- layout="[[-1], [1], [-1]] IS improvisation for verticle alignment -->
 
 ## 
 
 ::: {style="font-size: 1.8em; text-align: center"}
 All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fishing & Maritime Piracy
 :::
+
+## The Project {.centit}
+
+-   A part of a larger research project on Maritime crime & security
+-   Collaboration between UT, Knoxville & UNCW
+-   Funded by Office of Naval Research (Minerva Research Initiative), 2020-2023
+
+## Project Outputs at various stages {.leftit}
+
+\(2022\) Interstate hostility and maritime crime: Evidence from South East Asia. *Marine Policy*
+
+\(2022\) Maritime Piracy and Foreign Policy. In *Oxford Research Encyclopedia of Politics*
+
+(Under review) COVID-19 & piracy 
+
+(Ongoing) IUU fishing & piracy in Indonesia *Political Geography*
+
+(Ongoing) Indonesia - Survey of fishers
+
+(Ongoing) Piracy & vessel traffic in the Gulf of Guinea
+
+</br>
+
+**Media & Blogs**
+
+\(2021\) "Fights over Maritime Boundaries are Creating Safe Zones for Pirates." *The Monkey Cage, Washington Post*
+
+\(2021\) "How History Predicts COVID-19's Impact on Maritime Piracy." *Homeland Security Today*
 
 ## Is there a systematic association between piracy events & illegal Fishing?
 
