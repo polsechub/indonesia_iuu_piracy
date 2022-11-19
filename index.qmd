@@ -35,13 +35,14 @@ All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fis
 
 \(2022\) Maritime Piracy and Foreign Policy. In *Oxford Research Encyclopedia of Politics*
 
-(Under review) Government Stringency during COVID-19, inequality, & maritime piracy
+(Under review) Stringency measure during COVID-19, inequality, & maritime piracy
 
 (Ongoing) IUU fishing & piracy in Indonesia 
 
+(Ongoing) IUU fishing, vessel traffic, & piracy in the Gulf of Guinea
+
 (Ongoing) Indonesia - Survey of fishers
 
-(Ongoing) Piracy & vessel traffic in the Gulf of Guinea
 
 </br>
 
@@ -245,17 +246,8 @@ $$
 ##  {.smaller}
 
 ::: container
-::: {.column width="40%"}
-<br/>
 
--   Decrease=L.IUU -- IUU
-
--   IUU decrease=1 if decrease\>10%
-
--   IUU decrease=0, otherwise
-:::
-
-::: {.column width="55%"}
+::: {.column width="75%"}
 |                                    | ~(1)~                   | ~(2)~                   | ~(3)~                   |
 |--------------------|------------------|------------------|------------------|
 | ~IUU decrease~                     | ~1.852\*\*~ ~(0.731)~   | ~1.618\*\*\*~ ~(0.503)~ | ~0.858~ ~(0.616)~       |
