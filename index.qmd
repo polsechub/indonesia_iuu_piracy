@@ -123,7 +123,7 @@ Photo credit: Eric Frécon
 
 <!-- &emsp; Adds 4 spaces, and ;&ensp; Adds 2 spaces -->
 
-## Research-Design {.leftit}
+## Research Design {.leftit}
 
 </br>
 
@@ -220,7 +220,7 @@ $$
 **Independent variables** 
 
 -   Decline in IUU fishing (compared to previous year)
--   Opportunity: Ship traffic
+-   Opportunity: Ship traffic (AIS)
 
 **Control variables**
 

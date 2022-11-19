@@ -73,8 +73,8 @@
     "objectID": "index.html#research-design",
     "href": "index.html#research-design",
     "title": "Research Presentation",
-    "section": "Research-Design",
-    "text": "Research-Design\n\n\nCase Study: Indonesia\nUnit of analysis: Grid-Cell Analysis (55km X 55km) year\nPanel data: 1990-2017\nModel: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)"
+    "section": "Research Design",
+    "text": "Research Design\n\n\nCase Study: Indonesia\nUnit of analysis: Grid-Cell Analysis (55km X 55km) year\nPanel data: 1990-2017\nModel: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)"
   },
   {
     "objectID": "index.html#the-indonesian-case",
@@ -95,7 +95,7 @@
     "href": "index.html#research-design-2",
     "title": "Research Presentation",
     "section": "Research Design",
-    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell year? (Y-1/N-0 )\n\nIndependent variables\n\nDecline in IUU fishing (compared to previous year)\nOpportunity: Ship traffic\n\nControl variables\n\nNight lights\nPorts\nSecurity force bases"
+    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell year? (Y-1/N-0 )\n\nIndependent variables\n\nDecline in IUU fishing (compared to previous year)\nOpportunity: Ship traffic (AIS)\n\nControl variables\n\nNight lights\nPorts\nSecurity force bases"
   },
   {
     "objectID": "index.html#section-1",
