@@ -1,5 +1,5 @@
 ---
-title: "Research Presentation"
+title: "Illegal Fishing & Maritime Piracy: Indonesian Case Study"
 author: "Anup Phayal"
 date: " "
 format:
@@ -20,11 +20,11 @@ css: styles.css
 
 
 
-## 
 
-::: {style="font-size: 1.8em; text-align: center"}
-All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fishing & Maritime Piracy
-:::
+
+<!-- ::: {style="font-size: 1.8em; text-align: center"} -->
+<!-- All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fishing & Maritime Piracy -->
+<!-- ::: -->
 
 ## The Project {.centit}
 
