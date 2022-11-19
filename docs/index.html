@@ -438,16 +438,40 @@
 <section id="research-design-1" class="slide level2 smaller center">
 <h2>Research Design</h2>
 <div class="container">
-<div class="column" style="width:50%;">
+<div class="column leftit" style="width:50%;">
 <p><br></p>
-<p>DV: Presence of piracy in a grid-cell year? (Y-1/N-0 )</p>
+<p><strong>DV</strong>: Presence of piracy in a grid-cell year? (Y-1/N-0 )</p>
 <p><br></p>
-<p>Independent variables (grid-cell level):</p>
+<p><strong>Independent variables</strong></p>
+<ul>
+<li>Decline in IUU fishing (compared to previous year) <span class="math display">\[ \Delta_{it} = IUU_{it-1} - IUU_{it} \]</span> Where, <span class="math inline">\(i\)</span> is for grid-cell and <span class="math inline">\(t\)</span> is year, and <span class="math display">\[
+IUU\ Decrease=
+\begin{cases}
+1,&amp; \text{if } \Delta_{it}\geq 10\%\\
+0,              &amp; \text{otherwise}
+\end{cases}
+\]</span></li>
+</ul>
+</div>
+<div class="column" style="width:45%;">
+<!-- [Night lights extrapolated average, 2009]{.r-fit-text} -->
+<p><br></p>
+</div>
+</div>
+</section>
+<section id="research-design-2" class="slide level2 smaller center">
+<h2>Research Design</h2>
+<div class="container">
+<div class="column leftit" style="width:50%;">
+<p><br></p>
+<p><strong>DV</strong>: Presence of piracy in a grid-cell year? (Y-1/N-0 )</p>
+<p><br></p>
+<p><strong>Independent variables</strong></p>
 <ul>
 <li>Decline in IUU fishing (compared to previous year)</li>
 <li>Opportunity: Ship traffic</li>
 </ul>
-<p>Control variables:</p>
+<p><strong>Control variables</strong></p>
 <ul>
 <li>Night lights</li>
 <li>Ports</li>
@@ -471,17 +495,6 @@
 </div>
 <!-- ## Piracy & fishing in Indonesia -->
 <!-- ![](input/piracy_fishing_indonesia.png){style="height: 90%;" fig-align="center;"} -->
-</section>
-<section id="decrease-in-iuu" class="slide level2 center">
-<h2>Decrease in IUU</h2>
-<p><br></p>
-<p><span class="math display">\[ \Delta_{t} = IUU_{t-1} - IUU_{t} \]</span> Where, <span class="math inline">\(i\)</span> is for grid-cell and <span class="math inline">\(t\)</span> is month, and <span class="math display">\[
-    IUU\ Decrease=
-\begin{cases}
-    1,&amp; \text{if } \Delta_{t}\geq 10\%\\
-    0,              &amp; \text{otherwise}
-\end{cases}
-\]</span></p>
 </section>
 <section id="section-1" class="slide level2 smaller center">
 <h2></h2>

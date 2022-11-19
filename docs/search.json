@@ -88,14 +88,14 @@
     "href": "index.html#research-design-1",
     "title": "Research Presentation",
     "section": "Research Design",
-    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell year? (Y-1/N-0 )\n\nIndependent variables (grid-cell level):\n\nDecline in IUU fishing (compared to previous year)\nOpportunity: Ship traffic\n\nControl variables:\n\nNight lights\nPorts\nSecurity force bases"
+    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell year? (Y-1/N-0 )\n\nIndependent variables\n\nDecline in IUU fishing (compared to previous year) \\[ \\Delta_{it} = IUU_{it-1} - IUU_{it} \\] Where, \\(i\\) is for grid-cell and \\(t\\) is year, and \\[\nIUU\\ Decrease=\n\\begin{cases}\n1,& \\text{if } \\Delta_{it}\\geq 10\\%\\\\\n0,              & \\text{otherwise}\n\\end{cases}\n\\]"
   },
   {
-    "objectID": "index.html#decrease-in-iuu",
-    "href": "index.html#decrease-in-iuu",
+    "objectID": "index.html#research-design-2",
+    "href": "index.html#research-design-2",
     "title": "Research Presentation",
-    "section": "Decrease in IUU",
-    "text": "Decrease in IUU\n\n\\[ \\Delta_{t} = IUU_{t-1} - IUU_{t} \\] Where, \\(i\\) is for grid-cell and \\(t\\) is month, and \\[\n    IUU\\ Decrease=\n\\begin{cases}\n    1,& \\text{if } \\Delta_{t}\\geq 10\\%\\\\\n    0,              & \\text{otherwise}\n\\end{cases}\n\\]"
+    "section": "Research Design",
+    "text": "Research Design\n\n\n\nDV: Presence of piracy in a grid-cell year? (Y-1/N-0 )\n\nIndependent variables\n\nDecline in IUU fishing (compared to previous year)\nOpportunity: Ship traffic\n\nControl variables\n\nNight lights\nPorts\nSecurity force bases"
   },
   {
     "objectID": "index.html#section-1",

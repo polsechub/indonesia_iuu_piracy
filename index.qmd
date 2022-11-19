@@ -144,25 +144,60 @@ Model: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)
 ![](input/legal_iuuf.png){style="width: 100%;" fig-align="center;"}
 
 
+## Research Design {.smaller}
+
+::: container
+
+::: {.column width="50%" .leftit}
+</br>
+
+**DV**: Presence of piracy in a grid-cell year? (Y-1/N-0 )
+
+</br>
+
+**Independent variables** 
+
+-   Decline in IUU fishing (compared to previous year)
+$$ \Delta_{it} = IUU_{it-1} - IUU_{it} $$ Where, $i$ is for grid-cell and $t$ is year, and 
+$$
+    IUU\ Decrease= 
+\begin{cases}
+    1,& \text{if } \Delta_{it}\geq 10\%\\
+    0,              & \text{otherwise}
+\end{cases}
+$$
+
+
+:::
+
+::: {.column width="45%"}
+<!-- [Night lights extrapolated average, 2009]{.r-fit-text} -->
+</br>
+
+
+:::
+:::
+
+
 
 
 ## Research Design {.smaller}
 
 ::: container
 
-::: {.column width="50%"}
+::: {.column width="50%" .leftit}
 </br>
 
-DV: Presence of piracy in a grid-cell year? (Y-1/N-0 )
+**DV**: Presence of piracy in a grid-cell year? (Y-1/N-0 )
 
 </br>
 
-Independent variables (grid-cell level):
+**Independent variables** 
 
 -   Decline in IUU fishing (compared to previous year)
 -   Opportunity: Ship traffic
 
-Control variables:
+**Control variables**
 
 -   Night lights
 -   Ports
@@ -183,21 +218,6 @@ Control variables:
 <!-- ## Piracy & fishing in Indonesia -->
 
 <!-- ![](input/piracy_fishing_indonesia.png){style="height: 90%;" fig-align="center;"} -->
-
-## Decrease in IUU
-
-</br>
-
-$$ \Delta_{t} = IUU_{t-1} - IUU_{t} $$ Where, $i$ is for grid-cell and $t$ is month, and 
-$$
-    IUU\ Decrease= 
-\begin{cases}
-    1,& \text{if } \Delta_{t}\geq 10\%\\
-    0,              & \text{otherwise}
-\end{cases}
-$$
-
-
 
 
 
