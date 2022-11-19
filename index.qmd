@@ -31,8 +31,6 @@ All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fis
 
 ## Project Outputs at various stages {.leftit .smaller} 
 
-</br>
-
 \(2022\) Interstate hostility and maritime crime: Evidence from South East Asia. *Marine Policy*
 
 \(2022\) Maritime Piracy and Foreign Policy. In *Oxford Research Encyclopedia of Politics*
@@ -128,20 +126,43 @@ Photo credit: Eric Frécon
 </br>
 
 ::: container
-Case Study: Indonesia
+**Case Study**: Indonesia
 
-Unit of analysis: Grid-Cell Analysis (55km X 55km) year
+**Unit of analysis**: Grid-Cell Analysis (55km X 55km) year
 
-Model: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)
+**Model**: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)
 
 ![](input/indonesia.eez_blank.jpg){style="width: 100%;" fig-align="center;"}
 
 :::
 
 
-## Local milieu: Indonesian case
 
+
+##  The Indonesian case {.smaller .leftit}
+
+::: container
+::: {.column width="55%" }
+</br>
+</br>
+</br>
 ![](input/legal_iuuf.png){style="width: 100%;" fig-align="center;"}
+
+:::
+
+::: {.column width="5%" text-align="right;"}
+:::
+
+::: {.column width="30%"}
+![](input/Indonesia_Blows_Up.png){style="height: 20%;" fig-align="left;"}
+
+![](input/ship_blown.png){style="height: 60%;" fig-align="left;"}
+
+
+:::
+:::
+
+
 
 
 ## Research Design {.smaller}
@@ -265,31 +286,27 @@ $$
 
 ![](input/figure_8.png){style="height: 90%;" fig-align="center;"}
 
+
+
 ##  {.smaller}
 
 ::: container
-::: {.column width="30%"}
-![](input/Indonesia_Blows_Up.png){style="height: 20%;" fig-align="left;"}
 
-![](input/ship_blown.png){style="height: 60%;" fig-align="left;"}
-:::
-
-::: {.column width="10%" text-align="right;"}
-:::
-
-::: {.column width="45%"}
+::: {.column width="95%"}
 <br/>
 
 **Conclusion**
 
--   Illegal fishing is associated with piracy, but not simple correlation
+-   Illegal fishing associated with piracy, but not simple correlation
 
--   In Indonesia, locals engaged in illegal fishing, turn to piracy when IUUF catch is constrained
+-   In Indonesia, constraint in illegal fishing, leads to the onset of piracy when
 
 -   Without addressing community-level grievances, enforcement that effectively restricts IUU fishing can increase sea-piracy
-:::
-:::
 
+-   Is this generalizable beyond Indonesia?
+
+:::
+:::
 
 
 <!-- ## Gulf of Guinea?  -->
@@ -306,7 +323,7 @@ $$
 <!-- ::: -->
 
 <!-- ::: {.column width="48%"} -->
-<!-- <!-- [Night lights extrapolated average, 2009]{.r-fit-text} --> -->
+<!-- <!-- [Night lights extrapolated average, 2009]{.r-fit-text} -->
 
 <!-- ![](input/monthly_priogrid_viz_2014_6.png){style="height: 90%;" fig-align="center;"} -->
 <!-- ::: -->
