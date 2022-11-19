@@ -289,3 +289,28 @@ $$
 -   Without addressing community-level grievances, enforcement that effectively restricts IUU fishing can increase sea-piracy
 :::
 :::
+
+
+
+<!-- ## Gulf of Guinea?  -->
+
+
+
+<!-- </br> -->
+
+<!-- June 2014 -->
+
+<!-- ::: container -->
+<!-- ::: {.column width="48%"} -->
+<!-- ![](input/monthly_raw_viz_2014_6.png){style="height: 90%;" fig-align="center;"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="48%"} -->
+<!-- <!-- [Night lights extrapolated average, 2009]{.r-fit-text} --> -->
+
+<!-- ![](input/monthly_priogrid_viz_2014_6.png){style="height: 90%;" fig-align="center;"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+
+
