@@ -74,7 +74,7 @@
     "href": "index.html#research-design",
     "title": "Research Presentation",
     "section": "Research-Design",
-    "text": "Research-Design\n\n\nCase Study: Indonesia\nUnit of analysis: Grid-Cell Analysis (55km X 55km) year\nModel: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)"
+    "text": "Research-Design\n\n\nCase Study: Indonesia\nUnit of analysis: Grid-Cell Analysis (55km X 55km) year\nPanel data: 1990-2017\nModel: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)"
   },
   {
     "objectID": "index.html#the-indonesian-case",

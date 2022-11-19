@@ -132,6 +132,8 @@ Photo credit: Eric Frécon
 
 **Unit of analysis**: Grid-Cell Analysis (55km X 55km) year
 
+**Panel data**: 1990-2017
+
 **Model**: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)
 
 ![](input/indonesia.eez_blank.jpg){style="width: 100%;" fig-align="center;"}
