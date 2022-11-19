@@ -18,10 +18,6 @@ css: styles.css
 <!-- https://anupphayal.github.io/gitblog -->
 
 
-
-
-
-##
 ::: {style="font-size: 1.8em; text-align: center"}
 All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fishing & Maritime Piracy
 :::
@@ -55,47 +51,62 @@ All Maritime Crimes Are Local: Understanding the Causal Link Between Illegal Fis
 \(2021\) "How History Predicts COVID-19's Impact on Maritime Piracy." *Homeland Security Today*
 
 
+## Maritime piracy
 
-## Is there a systematic association between piracy events & illegal Fishing?
+-   Maritime piracy: Attack & robbery on ships
+-   International Maritime Bureau estimates: \$1-9 bn/year
 
--   Past works: Illegal fishing & piracy correlated
--   **Foreign trawlers** --\> Deplete fishery --\> Local fishers turn to piracy (Ploch et al. 2011; Weir 2009; Desai and Shambaugh 2021)
--   Seemingly plausible, but lacks evidence (Denton and Harris 2021; Jesperson 2022)
+![](input/yearly_piracy_all.png){style="height: 120%;" fig-align="center"}
 
-## Local milieu
 
-Local illegal fishers --\> turn to piracy --\> when there is a constrain on illegal fishing & near target-rich high shipping areas
+## Why engage in piracy? 
+-   Past works: Grievance model -- Local and soceital conditions like inequality & conflict
+-   **Foreign trawlers** --\> Deplete fishery --\> Local fishers turn to piracy 
+-   **Illegal fishing (by outsiders)** & piracy correlates (Ploch et al. 2011; Weir 2009; Desai and Shambaugh 2021)
+-   Seemingly plausible, but lacks evidence (Denton & Harris 2021; Jesperson 2022)
 
-![](input/pirates_by_frecon.jpg){style="height: 70%;" fig-align="center"}
+## 
+
+**Literature on criminal & terrorism milieu**
+
+  -   Illegal fishing at the local level & piracy?
+
+
+## Is there a systematic association between illegal Fishing & piracy incidents?
+
+
+
+
+## Local Milieau
+
+-   Illegal, unreported and unregulated (IUU) fishing 
+
+-   Fishing in violation of national regulations, misreporting or unreporting
+
+-   Foreign illegal fishing network --- with local support
+
+-   Transshipment, flag of convenience
+
+## Local Milieau {.leftit}
+
+</br>
+
+Local illegal fishers --\> Turn to piracy 
+
+  -   When constraint on illegal fishing 
+  -   Near target-rich high shipping areas
+
+![](input/pirates_by_frecon.jpg){style="height: 50%;" fig-align="center"}
 
 ::: {style="font-size: .5em; text-align: center; margin: -1em;"}
 Photo credit: Eric Frécon
 :::
 
-<!-- for centering heading-2 below, see .css file -->
 
-<!-- ## Piracy world-wide -->
 
-<!-- ![](input/yearly_piracy_all.png){style="height: 85%;" fig-align="center"} -->
+## Observable implications {.centit}
 
-## Local milieu: Indonesia case
-
-![](input/legal_iuuf.png){style="width: 100%;" fig-align="center;"}
-
-## Mechanism {.centit}
-
-```{mermaid}
-%%|position: 'center'
-flowchart TB
-  A["<br/>  Potential (local)  <br/> IUUF perpetrators&ensp;  <br/> #160;"]---B["<br/>  Constraint due to enforcement&emsp; <br/> or other reasons <br/> (Observe decline in illegal catch)&emsp; <br/> #160;"]
-  B---C["Presence of opportunity&emsp; "]
-  C---D["Piracy events&emsp; "]
-  
-linkStyle default stroke:white,stroke-width:4px,TextColor:white; 
-   
-```
-
-## Hypotheses {.centit}
+</br>
 
 *H1: Piracy incidents are more likely to occur in areas where illegal fishing has declined.*
 
@@ -109,15 +120,28 @@ linkStyle default stroke:white,stroke-width:4px,TextColor:white;
 
 <!-- &emsp; Adds 4 spaces, and ;&ensp; Adds 2 spaces -->
 
-##  {background-image="input/world_gridcell_piracy.png" background-size="100%"}
+## Research-Design {.leftit}
 
-[Research-Design]{.r-fit-text}
+</br>
 
-[Case Study: Indonesia]{.r-fit-text}
+::: container
+Case Study: Indonesia
 
-[Unit: Grid-Cell Analysis]{.r-fit-text}
+Unit of analysis: Grid-Cell Analysis (55km X 55km) year
 
-[Model: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)]{.r-fit-text}
+Model: Binary Time Series Cross-sectional model (Beck, Katz and Tucker 1998)
+
+![](input/indonesia.eez_blank.jpg){style="width: 100%;" fig-align="center;"}
+
+:::
+
+
+## Local milieu: Indonesian case
+
+![](input/legal_iuuf.png){style="width: 100%;" fig-align="center;"}
+
+
+
 
 ## Research Design {.smaller}
 
